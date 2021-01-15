@@ -18,7 +18,7 @@
 
 之前的抓包教程请前往：[完美校园抓包打卡](https://github.com/ReaJason/17wanxiaoCheckin-Actions/blob/master/README_LAST.md)，本项目使用方法，请参考此页面下面
 
-图片无法加载，可以前往我的博客查看 [使用方法](https://reajason.top/2020/06/28/17wanxiaoCheckin/#%E4%B8%89%E3%80%81%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95)（加载也可能很慢）
+图片无法加载，可以前往我的博客查看 [使用方法](https://zik05.cn/archives/82.html)（加载也可能很慢）
 
 ------
 
